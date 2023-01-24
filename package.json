@@ -106,7 +106,7 @@
 		"eventemitter3": "^4.0.7",
 		"is-url": "^1.2.4",
 		"js-cookie": "^3.0.1",
-		"jsonwebtoken": "^8.5.1",
+		"jsonwebtoken": "^9.0.0",
 		"katex": "^0.16.3",
 		"md5-js-tools": "^1.0.2",
 		"mime": "^3.0.0",
